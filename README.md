@@ -15,7 +15,7 @@ cd app
 npm ci --silent
 ```
 
-Agor, você poderá escolher entre executar a aplicação  `web` or `cli`. Siga os passos abaixo para selecioná-las:
+Agora, você poderá escolher entre executar a aplicação  `web` or `cli`. Siga os passos abaixo para selecioná-las:
 
 ### Web
 ```sh
